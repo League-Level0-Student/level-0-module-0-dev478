@@ -5,7 +5,9 @@ import java.util.Random;
 public class AwesomeOrNot {
 
 	// 1. Make a main method that includes everything below
-
+public static void main(String[] args) {
+	
+}
 	
 		Random ran = new Random();    //This will be used below to make a random number. 
 		
