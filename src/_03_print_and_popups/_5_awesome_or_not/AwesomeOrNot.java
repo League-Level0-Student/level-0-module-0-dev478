@@ -51,7 +51,8 @@ public class AwesomeOrNot {
 			// -- tell the user whatever they entered is boring.
 	
 		
-			
+			//sorry
+	//I will help
 		
 if(variable==3) {
 	JOptionPane.showMessageDialog(null, ans + "is horrible.");
