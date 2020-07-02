@@ -33,20 +33,20 @@ public class AwesomeOrNot {
 		
 	}
 	if(variable==0) {
-		JOptionPane.showMessageDialog(null, ans + " is awesome!");
+		JOptionPane.showMessageDialog(null, ans + " are awesome!");
 	}
 			// -- tell the user whatever they entered is awesome!
 	
 		// 6. If your variable is  1
 	if(variable==1) {
-		JOptionPane.showMessageDialog(null, ans + " is ok.");
+		JOptionPane.showMessageDialog(null, ans + " are ok.");
 	}
 			// -- tell the user whatever they entered is ok.
 	
 		// 7. If your variable is  2
 	if(variable==2) {
 			
-		JOptionPane.showMessageDialog(null, ans + " is boring.");
+		JOptionPane.showMessageDialog(null, ans + " are boring.");
 	}
 			// -- tell the user whatever they entered is boring.
 	
@@ -55,7 +55,7 @@ public class AwesomeOrNot {
 	//I will help
 		
 if(variable==3) {
-	JOptionPane.showMessageDialog(null, ans + "is horrible.");
+	JOptionPane.showMessageDialog(null, ans + " are horrible.");
 	
 }
 			// -- tell the user whatever they entered is horrible.
